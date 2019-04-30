@@ -11629,7 +11629,7 @@ a:focus {
 
 @media (min-width: 768px) {
   .chart-area {
-    height: 20rem;
+    height: 17rem;
   }
 }
 
@@ -11641,7 +11641,7 @@ a:focus {
 
 @media (min-width: 768px) {
   .chart-bar {
-    height: 20rem;
+    height: 17rem;
   }
 }
 
